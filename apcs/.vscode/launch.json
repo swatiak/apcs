@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NineInts",
+            "request": "launch",
+            "mainClass": "com.apcs.frqs.NineInts",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-APCS<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.APCS",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudyGuide<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.StudyGuide",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayTester<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.frqs.ArrayTester",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CodeWordChecker<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.frqs.CodeWordChecker",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FrogSimulation<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.frqs.FrogSimulation",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Position<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.frqs.Position",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RandomStringChooser<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.frqs.RandomStringChooser",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringFormatter<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.frqs.StringFormatter",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WordPairList<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.frqs.WordPairList",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MCQPrinceton2021<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.mcq.MCQPrinceton2021",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestPractice<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.practice.TestPractice",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Unit1<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit1.Unit1",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeSort<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit10.MergeSort",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Recursion<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit10.Recursion",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Unit2<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit2.Unit2",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Unit4<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit4.Unit4",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ClassStructure<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit5.ClassStructure",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntPair<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit5.IntPair",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Methods<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit5.Methods",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Parameter<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit5.Parameter",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestClassStructure<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit5.TestClassStructure",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestConstructor<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit5.constructor.TestConstructor",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AlgorithmArrays<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit6.AlgorithmArrays",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AlgorithmsSearching<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit6.AlgorithmsSearching",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForEachLoop<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit6.ForEachLoop",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OneDimensionalArrays<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit6.OneDimensionalArrays",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringArrays<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit6.StringArrays",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayListMethods<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit7.ArrayListMethods",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayListNotes<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit7.ArrayListNotes",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentList<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit7.StudentList",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TraversingArrayList<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit7.TraversingArrayList",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Unit8<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit8.Unit8",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestSchool<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit9.TestSchool",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CUSD<apcs_f879e3>",
+            "request": "launch",
+            "mainClass": "com.apcs.unit9.abstract1.CUSD",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CUSD<apcs_f879e3>(1)",
+            "request": "launch",
+            "mainClass": "com.apcs.unit9.abstractinterface.CUSD",
+            "projectName": "apcs_f879e3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CUSD<apcs_f879e3>(2)",
+            "request": "launch",
+            "mainClass": "com.apcs.unit9.interface1.CUSD",
+            "projectName": "apcs_f879e3"
+        }
+    ]
+}
