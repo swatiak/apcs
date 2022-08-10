@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .city {
+            background-color: tomato;
+            color: white;
+            border: 2px solid black;
+            margin: 20px;
+            padding: 20px;
+        }
+
+        .note {
+            font-size: 120%;
+            color: red;
+        }
+
+        .main {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="city">
+        <h2>London</h2>
+        <p>London is the capital of England</p>
+    </div>
+
+    <div class="city">
+        <h2>Paris</h2>
+        <p>Paris is the capital of France</p>
+    </div>
+
+    <div class="city">
+        <h2>Tokyo</h2>
+        <p>Tokyo is the capital of Japan</p>
+    </div>
+
+    <h1>My <span class="note">Important</span> Heading</h1>
+    <p>This is some <span class="note">important</span> text.</p>
+
+    <h2 class="city main">London</h2>
+    <h2 class="city">Paris</h2>
+    <h2 class="city">Tokyo</h2>
+    <br>
+    <h2 class="city">Paris</h2>
+    <p class="city">Paris is the capital of France</p>
+
+    <iframe src="id.html" height="200" width="300" title="Iframe Example"></iframe>
+
+    <iframe src="id.html" style="height: 200px; width: 300px; border: 2px solid red;" title="Iframe Example"></iframe>
+
+    <button type="button" onclick="myFunction()">Click Me!</button>
+    <p id="demo"></p>
+    <script>
+        function myFunction() {
+            document.getElementById("demo").innerHTML = "Hello Javascript!"
+        }
+    </script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <h1>HTML Links</h1>
+
+    <h2>Link Button</h2>
+    <p><a href="https://www.google.com/" target="_blank">Visit google!</a></p>
+
+    <h2>HTML Image</h2>
+    <img src="flower.jpeg" alt="Flower" width="500" height="333">
+
+    <!-- Create a Bookmark -->
+    <p><a href="#C4">Jump to Chapter 4</a></p>
+
+    <h2>Chapter 1</h2>
+    <p>This chapter explains bla bla bla</p>
+
+    <h2>Chapter 2</h2>
+    <p>This chapter explains bla bla bla</p>
+
+    <h2>Chapter 3</h2>
+    <p>This chapter explains bla bla bla</p>
+
+    <h2 id="C4">Chapter 4</h2>
+    <p>This chapter explains bla bla bla</p>
+
+    <h2>Chapter 5</h2>
+    <p>This chapter explains bla bla bla</p>
+
+    <style>
+        a:link {
+            color: green;
+            background-color: transparent;
+            text-decoration: none;
+        }
+
+        a:visited {
+            color: pink;
+            background-color: transparent;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: red;
+            background-color: transparent;
+            text-decoration: underline;
+        }
+
+        a:active {
+            color: yellow;
+            background-color: transparent;
+            text-decoration: underline;
+        }
+
+        a:link,
+        a:visited {
+            background-color: #f44336;
+            color: white;
+            padding: 15px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        a:hover,
+        a:active {
+            background-color: red;
+        }
+
+        table {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 50%;
+        }
+
+        td,
+        th {
+            border: 1px solid black;
+            text-align: center;
+            padding: 8px;
+            border-radius: 1px;
+        }
+
+        tr:nth-child(even) {
+            background-color: lightgray;
+        }
+    </style>
+
+    <h2>HTML Table</h2>
+
+    <table>
+        <caption>Countries & Cities</caption>
+        <colgroup>
+            <col span="2" style="background-color: white;">
+            <col style="background-color: yellow;">
+
+        </colgroup>
+
+        <tr>
+            <th style="width:50%">Country</th>
+            <th>City</th>
+
+        </tr>
+        <tr style="width:100%">
+            <td>Australia</td>
+            <td>Sydney</td>
+
+        </tr>
+        <tr style="width:100%">
+            <td>Canada</td>
+            <td>Toronto</td>
+
+        </tr>
+        <tr style="width:100%">
+            <td>USA</td>
+            <td>Los Angeles</td>
+        </tr>
+
+    </table>
+
+    <table>
+        <br>
+
+        <tr>
+            <th style="width:25%">Company </th>
+            <th style="width:50%;">Contact</th>
+            <th style="width:25%;">Country</th>
+        </tr>
+
+        <tr>
+            <td>Alfreds</td>
+            <td>Maria Anders</td>
+            <td>Germany</td>
+        </tr>
+
+        <tr>
+            <td>Ernst Handel</td>
+            <td>Roland Mendel</td>
+            <td>Austria</td>
+        </tr>
+
+        <tr>
+            <td>Island Trading</td>
+            <td>Helen Bennet</td>
+            <td>UK</td>
+
+        </tr>
+
+    </table>
+    <br>
+    <table>
+        <tr>
+            <th style="width: 30%;">8:00</th>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th style="width: auto;">9:00</th>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th style="width: auto;">10:00</th>
+            <td></td>
+            <td></td>
+
+        </tr>
+        <tr>
+            <th style="width: auto;">11:00</th>
+            <td></td>
+            <td></td>
+
+        </tr>
+        <tr>
+            <th style="width: auto;">12:00</th>
+            <td></td>
+            <td></td>
+
+        </tr>
+        <tr>
+            <th style="width: auto;">13:00</th>
+            <td></td>
+            <td></td>
+
+        </tr>
+
+
+        <br>
+
+    </table>
+    <br>
+    <table>
+        <tr>
+            <th></th>
+            <th>MON</th>
+            <th>TUE</th>
+            <th>WED</th>
+            <th>THU</th>
+            <th>FRI</th>
+        </tr>
+        <tr>
+            <th style="width: 30%;">8:00</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+
+
+        </tr>
+        <tr>
+            <th style="width: auto;">9:00</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th style="width: auto;">10:00</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+
+        </tr>
+        <tr>
+            <th style="width: auto;">11:00</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+
+        </tr>
+        <tr>
+            <th style="width: auto;">12:00</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+
+        </tr>
+
+    </table>
+    <br>
+    <table style="width:50%">
+        <tr>
+            <th colspan="7">DECEMBER</th>
+            </tr>
+ <tr style="height: 30px">
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr style="height: 30px">
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr style="height: 30px">
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr style="height: 30px">
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr style="height: 30px">
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+
+    </table>
+
+
+</body>
+
+</html>
